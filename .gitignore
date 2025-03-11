@@ -1,0 +1,10 @@
+# This file is used to ignore files which are generated
+# ----------------------------------------------------------------------------
+
+*-backups/
+# *.zip
+*.kicad_prl
+
+# Note: .gitignore ignores untracked files. 
+# Files already tracked by Git are not affected. 
+# To stop tracking a file that is currently tracked, use git rm --cached.
