@@ -2,7 +2,7 @@
 # ----------------------------------------------------------------------------
 
 *-backups/
-# *.zip
+*.zip
 *.kicad_prl
 
 # Note: .gitignore ignores untracked files. 

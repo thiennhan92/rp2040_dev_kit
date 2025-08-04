@@ -3,7 +3,7 @@
 This is a custom development board based on the Raspberry Pi RP2040 microcontroller. It integrates essential peripherals for embedded systems prototyping, including USB, Ethernet, RGB LEDs, sensors, and storage. The design is accompanied by validated firmware that supports all core hardware features.
 
 ---
-
+![RP2040 Dev Kit - Top View](img/TOP.png)
 ## 🧩 Features
 
 - **Microcontroller**: Raspberry Pi RP2040 (dual-core ARM Cortex-M0+)
